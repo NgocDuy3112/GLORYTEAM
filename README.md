@@ -2,7 +2,7 @@
 
 ## Overview
 
-Olympia Custom Services is a modular Python-based platform for scalable data processing, analysis, and automation.  
+Olympia Custom Services is a modular Python-based platform for Gloryteam gameshow based on the gameshow Road to mount Olympia.  
 It uses **Docker** for containerization and **PostgreSQL** for data storage, providing APIs and services for media management, data analysis, and bot automation.
 
 ---
