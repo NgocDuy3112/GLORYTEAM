@@ -112,5 +112,5 @@ Where `<service>` can be **app**, **agent**, or **ocbot**.
 
 ## ✅ TODO
 
-- Finalize the assistant service code.
+- Finalize the agent service code.
 - Add detailed documentation and examples.
